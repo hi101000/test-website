@@ -1,11 +1,11 @@
 h1{
 		font-size: 30px;
 		color: teal;
-	}
-	h2{
-		font-size: 20px;
-		color: hotpink;
-	}
-	.big{
-		font-size: 100px;
-	}
+}/*makes all h1s 30 px in size and makes them teal*/
+h2{
+	font-size: 20px;
+	color: hotpink;
+}/*makes all h2s 20px in size and hot pink*/
+.big{
+	font-size: 100px;
+}/*makes all things in the big class 100px in size*/
