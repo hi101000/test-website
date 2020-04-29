@@ -10,6 +10,7 @@ function myFunction() {
     text += x.elements[i].value + "<br>";
   }
   if (text!=Ishan Roychowdhury){
+  	confirm(is this what you want to submit?)
   	document.write('Haha! nice try theif')
   	window.close()
   }
