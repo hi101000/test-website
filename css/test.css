@@ -12,8 +12,9 @@ h2{
 	color: pink;
 	font-family: 'Segoe Script', cursive;
 }
-p{font-family: 'Segoe Script', cursive;
-color: salmon;
+p{
+	font-family: 'Segoe Script', cursive;
+	color: salmon;
 }
 #welcome{
 	border-style: ridge double;
