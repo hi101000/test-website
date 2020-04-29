@@ -9,12 +9,12 @@ h2{
 }
 .big{
 	font-size: 100px;
-	color: pink;
+	color: teal;
 	font-family: 'Segoe Script', cursive;
 }
 p{
 	font-family: 'Segoe Script', cursive;
-	color: salmon;
+	color: teal;
 }
 #welcome{
 	border-style: ridge double;
