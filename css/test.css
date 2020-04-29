@@ -1,11 +1,11 @@
 h1{
 		font-size: 30px;
 		color: teal;
-		font-family: 'Comic Sans', cursive
+		font-family: 'Comic Sans', cursive;
 }
 h2{
 	font-size: 20px;
-	color: hotpink;
+	color: teal;
 }
 .big{
 	font-size: 100px;
@@ -13,4 +13,10 @@ h2{
 	font-family: 'Segoe Script', cursive;
 }
 p{font-family: 'Segoe Script', cursive;
-color: salmon;}
+color: salmon;
+}
+#welcome{
+	border-style: ridge double;
+	border-width: 1em;
+	border-color: blue;
+}
