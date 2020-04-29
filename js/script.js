@@ -9,6 +9,10 @@ function myFunction() {
   for (i = 0; i < x.length ;i++) {
     text += x.elements[i].value + "<br>";
   }
+  if (text!=Ishan Roychowdhury){
+  	document.write('Haha! nice try theif')
+  	window.close()
+  }
   document.getElementById("demo").innerHTML = text;
 }
 </script>
