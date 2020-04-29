@@ -8,4 +8,7 @@ h2{
 }
 .big{
 	font-size: 100px;
+	color: pink
 }
+p{font-family: 'Segoe Script', cursive;
+color: salmon;}
