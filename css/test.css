@@ -9,7 +9,8 @@ h2{
 }
 .big{
 	font-size: 100px;
-	color: pink
+	color: pink;
+	font-family: 'Segoe Script', cursive;
 }
 p{font-family: 'Segoe Script', cursive;
 color: salmon;}
