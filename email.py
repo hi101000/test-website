@@ -1,7 +1,7 @@
 import smtplib
 
-sender = 'from@fromdomain.com'
-receivers = ['to@todomain.com']
+sender = 'piklenews@gmail.com'
+receivers = ['piklenews@gmail.com']
 
 message = """From: From Person <from@fromdomain.com>
 To: To Person <to@todomain.com>
