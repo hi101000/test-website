@@ -1,14 +1,11 @@
 import smtplib
 
-sender = 'piklenews@gmail.com'
-receivers = ['piklenews@gmail.com']
+sender = input('who is sending this email?')
+receivers = []
+recievers_input=('who is getting the email?')
+recievers.append(recievers_input)
 
-message = """From: From Person <from@fromdomain.com>
-To: To Person <to@todomain.com>
-Subject: SMTP e-mail test
-
-This is a test e-mail message.
-"""
+message = input('enter the message')
 
 try:
    smtpObj = smtplib.SMTP('localhost')
