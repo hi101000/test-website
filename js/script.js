@@ -4,7 +4,7 @@ function hola(){
 function validateForm() {
   var x = document.forms["myForm"]["fname"].value;
   if (x=='Ishan'){
-  	window.close
+  	window.close()
   }
   if (x == "") {
     alert("Name must be filled out");
