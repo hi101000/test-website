@@ -3,7 +3,7 @@ function hola(){
 }
 function validateForm() {
   var x = document.forms["myForm"]["fname"].value;
-  document.cookie='username=x; expires=expires=Thu, 01 Jan 1970 00:00:00 UTC;';
+  document.cookie='username=x; expires=expires=Fri, 01 Jan 2021 00:00:00 UTC;';
   if (x=='Ishan'){
   	window.close();
   }
