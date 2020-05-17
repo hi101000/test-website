@@ -1,3 +1,5 @@
-function hola(){
-	alert("Hi!");
-}
+$(document).ready(function(){
+	$('button').click(function(){
+    	$(".test").hide();
+  	});
+});
